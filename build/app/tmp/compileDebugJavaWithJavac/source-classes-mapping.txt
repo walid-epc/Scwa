@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/popular/popular_people_cloud/BuildConfig.java
+ com.popular.popular_people_cloud.BuildConfig
