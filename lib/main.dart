@@ -5,6 +5,7 @@ import 'package:popular_people_cloud/screens/home_screen.dart';
 import 'package:popular_people_cloud/view_model/details_view_model.dart';
 import 'package:popular_people_cloud/view_model/images_view_model.dart';
 import 'package:popular_people_cloud/view_model/persons_view_model.dart';
+import 'package:popular_people_cloud/view_model/results_view_model.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -19,12 +20,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider<PersonsViewModel>(
-            create: (context) => PersonsViewModel()),
+        // ChangeNotifierProvider<PersonsViewModel>(
+        //     create: (context) => PersonsViewModel()),
         ChangeNotifierProvider<DetailsViewModel>(
             create: (context) => DetailsViewModel()),
         ChangeNotifierProvider<ImagesViewModel>(
             create: (context) => ImagesViewModel()),
+        ChangeNotifierProvider<ResultsViewModel>(
+            create: (context) => ResultsViewModel()),
       ],
       child: MaterialApp(
         title: 'Popular People',
