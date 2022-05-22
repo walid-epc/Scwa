@@ -4,7 +4,6 @@ import 'package:popular_people_cloud/screens/full_image_screen.dart';
 import 'package:popular_people_cloud/screens/home_screen.dart';
 import 'package:popular_people_cloud/view_model/details_view_model.dart';
 import 'package:popular_people_cloud/view_model/images_view_model.dart';
-import 'package:popular_people_cloud/view_model/persons_view_model.dart';
 import 'package:popular_people_cloud/view_model/results_view_model.dart';
 import 'package:provider/provider.dart';
 
