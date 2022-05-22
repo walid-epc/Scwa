@@ -1,16 +1,10 @@
 # popular_people_cloud
+![1](https://user-images.githubusercontent.com/62033008/169672144-cb34f048-47e9-44b3-a4c4-29c7b1d0ebc0.jpeg)
+
+![2](https://user-images.githubusercontent.com/62033008/169672129-dd5e6907-3f85-41b8-9520-29d17b2ea7a5.jpeg)
+
+![3](https://user-images.githubusercontent.com/62033008/169672165-8f91f5fd-cb6b-4781-9777-af01f9d2f604.jpeg)
 
 Popular Persons App.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+use Provider state managment packge
